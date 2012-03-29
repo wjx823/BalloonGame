@@ -9,7 +9,7 @@ Description
 
 You control a hot air balloon and try to avoid the floating skeletons and 
 rocks and get to the treasure chest. You use WASDEQ keys to navigate in 3D 
-space and Space for shooting down your enemies.
+space and Space to shoot down your enemies.
 
 Rules
 -----
@@ -17,7 +17,7 @@ Rules
 
 * The hot air balloon cannot collide with any of the enemies
 * The hot air balloon cannot be hit by enemy fire (the rock shaped enemies
-start firing when you are near enough)
+start firing when you are close enough)
 * You can fire at the enemies. When you hit a skeleton it dies and when you hit
 a rock shaped enemy it gets disoriented and stops turning for a short amount
 of time.
@@ -28,8 +28,8 @@ either extra speed for a short amount of time or a 100 point bonus)
 Screenshots
 -----------
 
-![Screenshot1](screenshot1.jpg)
-![Screenshot2](screenshot2.jpg)
+![Screenshot1](BalloonGame/raw/master/screenshot1.jpg)
+![Screenshot2](BalloonGame/raw/master/screenshot2.jpg)
 
 License
 -------
