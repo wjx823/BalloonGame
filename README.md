@@ -28,8 +28,8 @@ either extra speed for a short amount of time or a 100 point bonus)
 Screenshots
 -----------
 
-![Screenshot1](BalloonGame/raw/master/screenshot1.jpg)
-![Screenshot2](BalloonGame/raw/master/screenshot2.jpg)
+![Screenshot1](https://raw.github.com/uberspot/BalloonGame/master/screenshot1.jpg)
+![Screenshot2](https://raw.github.com/uberspot/BalloonGame/master/screenshot2.jpg)
 
 License
 -------
